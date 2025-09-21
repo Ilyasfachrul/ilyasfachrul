@@ -37,9 +37,8 @@
 
 ---
 
-### 🎮 Main Tic Tac Toe  
-[![Play Tic Tac Toe](https://img.shields.io/badge/Play_Tic_Tac_Toe-FF7043?style=for-the-badge&logo=gamepad&logoColor=white)](https://Ilyasfachrul.github.io/tic-tac-toe)
-  
+### ✨ Motto
+> *“Ngoding itu bukan cuma soal sintaks, tapi seni menyelesaikan masalah.”* 🎯  
 
 ---
 
