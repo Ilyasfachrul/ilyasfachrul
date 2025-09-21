@@ -3,14 +3,28 @@
 ![banner](image/github-header-banner.png)  
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **@57sparepart**  
-- 🌱 Learning [**Laravel Framework**](https://laravel.com)  
-- 💬 Love discussing **coding, technology, and creative projects**  
-- 📫 How to reach me:  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilyasfachrulnizwan_29)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyas-fachrul-nizwan)  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ilyasfachrul)  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyasfachruln@gmail.com)  
+- 🔭 I’m currently working on
+- 👯 I’m looking to collaborate on
+- 🤝 I’m looking for help with
+- 🌱 I’m currently learning
+- 💬 Ask me about
+- ⚡ Fun factprojects 
+- 📫 How to reach me: 
+<p align="center">
+  <a href="https://instagram.com/ilyasfachrulnizwan_29">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ilyas-fachrul-nizwan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ilyasfachrul">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ilyasfachruln@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
